@@ -109,11 +109,11 @@ const operator = {
         const preProcs = [
             {
                 type: 'sass',
-                reg: /\.scss$|\.sass$/
+                reg: /\.scss(\?local)?$|\.sass(\?local)?$/
             },
             {
                 type: 'less',
-                reg: /\.less$/
+                reg: /\.less(\?local)?$/
             }
         ];
 

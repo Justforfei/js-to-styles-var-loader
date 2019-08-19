@@ -1,5 +1,5 @@
 {
-  "name": "js-to-styles-var-loader",
+  "name": "js-to-styles-var-loader-by-import",
   "version": "1.1.0",
   "description": "Webpack loader for sharing data amongst (sass || less) && javascript modules",
   "main": "index.js",
