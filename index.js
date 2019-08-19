@@ -2,7 +2,7 @@ const path = require('path');
 const decache = require('decache');
 const squba = require('squba')
 
-const requireReg = /require\s*\((["'])([\w.\/]+)(?:\1)\)((?:\.[\w_-]+)*);?/igm;
+const requireReg = /@import\s*(["'])([\w.\/]+\.js)(?:\1)((?:\.[\w_-]+)*);?/igm;
 
 const operator = {
 

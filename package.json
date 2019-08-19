@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tompascall/js-to-styles-var-loader.git"
+    "url": "git+https://github.com/Justforfei/js-to-styles-var-loader.git"
   },
   "keywords": [
     "webpack",
@@ -23,9 +23,9 @@
   "author": "tompascall",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tompascall/js-to-styles-var-loader/issues"
+    "url": "https://github.com/Justforfei/js-to-styles-var-loader/issues"
   },
-  "homepage": "https://github.com/tompascall/js-to-styles-var-loader#readme",
+  "homepage": "https://github.com/Justforfei/js-to-styles-var-loader#readme",
   "devDependencies": {
     "babel-jest": "^19.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
